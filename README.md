@@ -14,3 +14,4 @@ Some interesting references on LISP:
 - [LISP style guide](https://lisp-lang.org/style-guide/)
 - [COMMON LISP: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
 - [Paul GRAHAM on LISP](http://www.paulgraham.com/lisp.html)
+- [Land of LISP](http://landoflisp.com/)
