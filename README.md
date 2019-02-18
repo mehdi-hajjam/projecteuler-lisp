@@ -11,6 +11,6 @@ To conform with the philosophy of this website, please make sure you solve the p
 ###### About LISP
 One of the oldest programming language there is : don't be thrown off by the syntax - beyond lies a new paradigm in your practice of programming.
 Some interesting references on LISP:
-[LISP style guide](https://lisp-lang.org/style-guide/)
-[COMMON LISP: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
-[Paul GRAHAM on LISP](http://www.paulgraham.com/lisp.html)
+- [LISP style guide](https://lisp-lang.org/style-guide/)
+- [COMMON LISP: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+- [Paul GRAHAM on LISP](http://www.paulgraham.com/lisp.html)
